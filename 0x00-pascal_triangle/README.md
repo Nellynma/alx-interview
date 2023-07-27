@@ -1,1 +1,1 @@
-0x00 Pascal Triangle
+0x00 Pascal's Triangle
